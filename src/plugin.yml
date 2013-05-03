@@ -1,0 +1,11 @@
+name: AprilJoke
+main: ru.akke.apriljoke.AprilJokePlugin
+version: 0.1
+author: akke
+commands:
+   togglejoke:
+      usage: /<command>
+   togglemute:
+      usage: /<command>
+   dispatchmessage:
+      usage: /<command>
