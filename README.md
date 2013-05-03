@@ -1,0 +1,4 @@
+AprilJoke
+=========
+
+Simple Bukkit plugin
